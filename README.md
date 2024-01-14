@@ -1,3 +1,3 @@
-# gunjan2.github.io
-Worlde
-Your site is live at https://gunjan-007.github.io/gunjan2.github.io/
+# Wordle Game
+
+This game is live at https://gunjan-007.github.io/Wordle/
